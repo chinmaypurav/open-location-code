@@ -9,5 +9,12 @@
             "email": "70144052+chinmaypurav@users.noreply.github.com"
         }
     ],
-    "require": {}
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "OpenLocationCode//": "src/"
+        }
+    }
 }
