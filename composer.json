@@ -1,0 +1,13 @@
+{
+    "name": "chinmay/open-location-code",
+    "description": "PHP package for the Open Location Code Algorithm",
+    "type": "library",
+    "license": "Apache 2.0",
+    "authors": [
+        {
+            "name": "Chinmay Purav",
+            "email": "70144052+chinmaypurav@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
